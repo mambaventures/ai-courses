@@ -15,7 +15,7 @@ export const providers: Provider[] = [
   {
     id: "1",
     name: "Coursera",
-    logo: "/placeholder.svg?height=100&width=100",
+    logo: "/coursera-logo-full-rgb.png",
     description: "Coursera is a global online learning platform that offers anyone, anywhere, access to online courses and degrees from leading universities and companies.",
     foundedYear: 2012,
     headquarters: "Mountain View, California, USA",
